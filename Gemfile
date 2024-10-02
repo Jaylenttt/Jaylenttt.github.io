@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem "faraday-retry"
 gem 'jekyll', '~> 4.3.2'
 gem "rack", ">= 2.2.3"
 gem "kramdown-parser-gfm"
