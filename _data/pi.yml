@@ -15,15 +15,15 @@
     ]
 
   educationshort:
-    ["Yu B., PhD, Associate Professor"
-    "Co-Director Intelligent Computing Joint Research Laboratory"
-    "(2016) Ph.D. Electrical Engineering, UCF"
-    "Department of  Electrical and Computer Engineering"
-    "California State University, Fullerton"
-    "University of California, Irvine"
-    "Email: ybai2 at uci dot edu"]
+    ["Yu B., PhD, Associate Professor"]
 
-
+    
+    #"Co-Director Intelligent Computing Joint Research Laboratory"
+    #"(2016) Ph.D. Electrical Engineering, UCF"
+    #"Department of  Electrical and Computer Engineering"
+    #"California State University, Fullerton"
+    #"University of California, Irvine"
+    #"Email: ybai2 at uci dot edu"
 
 
 
@@ -43,11 +43,11 @@
     ]
 
   educationshort:
-    ["Yifeng Y., PhD, Professor"
-    "Co-Director Intelligent Computing Joint Research Laboratory"
-    "(2005) Ph.D. Mathematics, UCB"
-    "Department of Mathematics"
-    "University of California, Irvine"
-    "Email: yyu1 at uci dot edu"]
+    ["Yifeng Y., PhD, Professor"]
     
+    #"Co-Director Intelligent Computing Joint Research Laboratory"
+    #"(2005) Ph.D. Mathematics, UCB"
+    #"Department of Mathematics"
+    #"University of California, Irvine"
+    #"Email: yyu1 at uci dot edu"
     
