@@ -16,17 +16,45 @@ Theoretical physics helps us to make progress in a wide range of fields, includi
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/1.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+<img src="{{ site.url }}{{ site.baseurl }}/images/1.jpg" width="100%"/>
+Yu B., Electrical Engineering
+Co-Director Intelligent Computing Joint Research Laboratory
+Department of  Electrical and Computer Engineering
+California State University, Fullerton
+University of California, Irvine
+Email: ybai2 at uci dot edu
 </center>
 </div>
 </div>
 <br/>
 
-### About me
+<div class="container">
+<div class="row">
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2.jpg" width="100%"/>
+Yifeng Y., PhD, Associate Professor
+Co-Director Intelligent Computing Joint Research Laboratory
+Department of Mathematics
+University of California, Irvine
+Email: yyu1 at uci dot edu
+</center>
+</div>
+</div>
+<br/>
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+### Research Topics: 
+
+Research in the laboratory focuses on 6 core topics: 
+(1) Efficient Machine Learning 
+(2) Mathematical Theory for Deep Learning 
+(3) Big Data Analytics/Processing 
+(4) High-Performance Computing 
+(5) Architecting Hardware Accelerator 
+(6) AI in Health
+
+### For Prospective Students/Scholars: 
+
+The Intelligent computing research lab is looking for self-motivated students and scholars to join the Lab for pursuing graduate degrees (M.S. in Electrical Engineering, Computer Engineering, Mathematics and/or Computer Science and Ph.D. in Computational Science) or conduct collaborative research. Also, there are multiple visiting scholar positions. If you are interested in working with me, please send your resume to ybai2 at uci dot edu.
+
+Note: The University of California, Irvine (UCI), is the world's most prestigious university, according to U.S. News & World Report 2025. It is ranked #33 in the top national universities (out of 436 national universities) and #9 in Best Schools: Computer Science and Engineering Programs.
+The California State University, Fullerton (CSUF), is a significant university ranked as a top institution in the nation and recognized as a leader within the California State University and beyond. According to U.S. News & World Report 2025, it is ranked #69 in the top public universities in the national universities.
