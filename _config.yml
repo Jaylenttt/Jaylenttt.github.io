@@ -62,14 +62,16 @@ kramdown:
 plugins: ["jekyll/scholar"]
 
 scholar:
+scholar:
+  style: apa
+  locale: en
+  source: "./_bibliography"
+  bibliography: "references.bib"
+
   last_name: Doe
   first_name: [John]
 
-  style: citesty
-  locale: en
-
-  source: /assets/
-  bibliography: ref.bib
+ 
   bibliography_template: bibtemplate
   sort_by: year, month
   order: descending
