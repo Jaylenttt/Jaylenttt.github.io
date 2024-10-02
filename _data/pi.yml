@@ -43,7 +43,10 @@
     ]
 
   educationshort:
-    ["Yifeng Y., PhD, Professor"]
+    [
+      "Yifeng Y., PhD, Professor"
+      "Co-Director Intelligent Computing Joint Research Laboratory"
+    ]
     
     #"Co-Director Intelligent Computing Joint Research Laboratory"
     #"(2005) Ph.D. Mathematics, UCB"
