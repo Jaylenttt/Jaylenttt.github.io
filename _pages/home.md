@@ -17,12 +17,6 @@ Theoretical physics helps us to make progress in a wide range of fields, includi
 <div class="row">
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/fulllogo.jpg" width="100%"/>
-Yu B., Electrical Engineering
-Co-Director Intelligent Computing Joint Research Laboratory
-Department of  Electrical and Computer Engineering
-California State University, Fullerton
-University of California, Irvine
-Email: ybai2 at uci dot edu
 </center>
 </div>
 </div>
@@ -31,12 +25,6 @@ Email: ybai2 at uci dot edu
 <div class="container">
 <div class="row">
 <center>
-
-Yifeng Y., PhD, Associate Professor
-Co-Director Intelligent Computing Joint Research Laboratory
-Department of Mathematics
-University of California, Irvine
-Email: yyu1 at uci dot edu
 </center>
 </div>
 </div>
