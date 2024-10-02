@@ -1,8 +1,8 @@
 ---
-title: "Research"
+title: "Publications"
 layout: gridlay
 sitemap: false
-permalink: /research/
+permalink: /publications/
 ---
 
 <style>
@@ -30,11 +30,11 @@ iframe {
 }
 </style>
 
-## Research
+## Publications
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
+<h4>Example Publications</h4>
 
 Example description
 </div>
