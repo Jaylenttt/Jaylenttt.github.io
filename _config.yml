@@ -59,8 +59,7 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
-plugins: 
-  - jekyll-scholar
+plugins: ["jekyll/scholar"]
 
 scholar:
   last_name: Doe
@@ -69,8 +68,8 @@ scholar:
   style: citesty
   locale: en
 
-  source: ./_bibliography"
-  bibliography: "references.bib"
+  source: /assets/
+  bibliography: ref.bib
   bibliography_template: bibtemplate
   sort_by: year, month
   order: descending
