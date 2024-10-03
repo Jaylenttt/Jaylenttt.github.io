@@ -1,16 +1,12 @@
 - name: "Mingshuo Liu"
   photo: rock.jpg
-  info: |
-  Phd Student, Started Aug. 2023
-  Graduate Student, Started Aug. 2019
+  info: Phd Student, Started Aug. 2023
   #email: 
   website: https://jaylenttt.github.io/
 
 - name: "Shiyi Luo"
   photo: rock.jpg
-  info: |
-  Phd Student, Started Aug. 2024
-  Graduate Student, Started Aug. 2020
+  info: Phd Student, Started Aug. 2024
   #email: 
   website: https://jaylenttt.github.io/
 
