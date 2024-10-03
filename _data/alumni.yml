@@ -1,19 +1,4 @@
-- name: Mingshuo Liu
-  photo: rock.jpg
-  duration: In the lab 2015-18
-  info: Now at Univeristy of X
-  email: exampleemail@gmail.com
 - name: Example Alumni Name
-  photo: rock.jpg
-  duration: In the lab 2015-18
-  info: Now at Univeristy of X
-  email: exampleemail@gmail.com
-  - name: Example Alumni Name
-  photo: rock.jpg
-  duration: In the lab 2015-18
-  info: Now at Univeristy of X
-  email: exampleemail@gmail.com
-  - name: Example Alumni Name
   photo: rock.jpg
   duration: In the lab 2015-18
   info: Now at Univeristy of X
