@@ -89,6 +89,8 @@ Manuel Castillo, Undergraduate Student
 
 ## Lab Alumni
 
+<br><br>
+
 Xiaotian Ma, IT Specialist at Pac-dent, Brea, CA, USA.
 
 Simon Yang, Manager at Ecotron, Whittier, CA, USA.
@@ -105,6 +107,8 @@ Jonathan Schinowsky, Engineer at Department of Defense (DOD) Research Lab, USA.
 
 <br><br>
 ## Visiting Lab Member
+
+<br><br>
 
 Yuga Ono, Ritsumeikan University
 
