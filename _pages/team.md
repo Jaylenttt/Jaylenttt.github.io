@@ -79,6 +79,14 @@ permalink: /team/
 {% endif %}
 </div>
 
+<br>
+Giovanni Martinez, Undergraduate Student 
+
+Seena Mohajeran, Undergraduate Student
+
+Manuel Castillo, Undergraduate Student
+<br><br>
+
 ## Lab Alumni
 
 Xiaotian Ma, IT Specialist at Pac-dent, Brea, CA, USA.
