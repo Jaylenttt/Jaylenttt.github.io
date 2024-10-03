@@ -41,7 +41,7 @@ Activities for Federal Agencies<br><br></h1>
 
 Army Research Office: Panelist (2020, 2021, 2022)<br> 
 
-</h4><h1>Journal Editorial Board<br><br></h1>
+</h4><h1>Journal Editorial Board<br><br></h1><h4>
 
 Guest Editor of Internet of Things, Elsevier<br> 
 

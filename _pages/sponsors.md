@@ -35,8 +35,6 @@ iframe {
 <div class="jumbotron">
 <img src="{{ site.url }}{{ site.baseurl }}/images/sponsorss.jpg" width="100%"/>
 <div class="col-md-12 col-sm-12">
-<h4>Example Publications</h4>
 
-Example description
 </div>
 </div>

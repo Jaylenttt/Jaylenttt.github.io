@@ -9,8 +9,6 @@ permalink: /team/
 
 **We are looking for new team members** [(see openings)]({{ https://mp.weixin.qq.com/s?__biz=Mzg4NjAzNjA2MQ==&mid=2247483797&idx=1&sn=21ec18f61d2146a31bc9d34dec094fef&chksm=cf9e82a7f8e90bb1c2b906e3cc02fe49e3fcf176863b0d4237ff2d76e2f288e31969313f4f56&token=2133957464&lang=zh_CN#rd }}{{ site.baseurl }}/vacancies) **!**
 
-## PI
-
 {% for member in site.data.pi %}
 
 <div class="jumbotron">
@@ -34,7 +32,7 @@ permalink: /team/
 
 {% endfor %}
 
-## Current Students and Postdocs
+## Current Students
 
 <div class='jumbotron'>
 {% assign number_printed = 0 %}
@@ -80,7 +78,7 @@ permalink: /team/
 {% endif %}
 </div>
 
-## Alumni
+## Lab Alumni
 
 <div class="jumbotron">
 {% assign number_printed = 0 %}
@@ -118,6 +116,6 @@ permalink: /team/
 {% endif %}
 </div>
 
-## Administrative Support
+## Visiting Lab Member
 
 <a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.
