@@ -118,4 +118,10 @@ permalink: /team/
 
 ## Visiting Lab Member
 
-<a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.
+Yuga Ono, Ritsumeikan University
+
+Carlye Favella, Golden West College
+
+Aimee Guzman, Santa Ana College
+
+Maria Moreno Lopez, Santiago Canyon College
