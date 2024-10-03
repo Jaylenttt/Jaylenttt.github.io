@@ -35,13 +35,13 @@ iframe {
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12" style="line-height: 1.6;">
 <h1>
-Activities for Federal Agencies<br><br><h1><h4>
+Activities for Federal Agencies<br><br></h1>
 
-National Science Foundation: Panelist (2019)<br>
+<h4>National Science Foundation: Panelist (2019)<br>
 
 Army Research Office: Panelist (2020, 2021, 2022)<br> 
 
-Journal Editorial Board<br>
+</h4><h1>Journal Editorial Board<br><br></h1>
 
 Guest Editor of Internet of Things, Elsevier<br> 
 
@@ -51,17 +51,17 @@ Guest Editor of Computer Network, Elsevier<br>
 
 Guest Editor of Journal of Robotics and Mechatronics (SCI index),<br> 
 
-Conference Steering Committee<br>
+</h4><h1>Conference Steering Committee<br><br></h1><h4>
 
 Steering Committee member of International Symposium on Advanced Technologies and Applications in the Internet of Things (ATAIT 2018)<br>
 
-Conference Track Chair<br> 
+</h4><h1>Conference Track Chair<br><br></h1><h4>
 
 General Chair of International Conference on Identification, Information and Knowledge in the Internet of Things (IIKI 2022)<br>
 
 Track Chair of International Conference on Identification, Information and Knowledge in the Internet of Things (IIKI 2018, 2019, 2020, 2021)<br>
 
-Conference Technical Program Committee<br>
+</h4><h1>Conference Technical Program Committee<br><br></h1><h4>
 TPC member of 29th edition of the ACM Great Lakes Symposium on VLSI (GLSVLSI2019, 2020, 2021,2022)<br> 
 
 TPC member of IEEE Computer Society Annual Symposium on VLSI (ISVLSI2019, 2020, 2021, 2022)<br> 
@@ -80,11 +80,11 @@ TPC member of IEEE International Conference on Integrated Circuits and Microsyst
 
 TPC member of 16th IEEE International Conference on Smart City (SmartCity-2018)<br>
 
-IEEE Service<br>
+</h4><h1>IEEE Service<br><br></h1><h4>
 
 Vice President of IEEE Southern California Nanotechnology Council Chapter<br> 
 
-Invited Reviewer<br>
+</h4><h1>Invited Reviewer<<br><br></h1><h4>
 
 Reviewer for IEEE Transactions on Emerging Topics in Computational Intelligence<br> 
 
