@@ -1,30 +1,32 @@
-- name: Mingshuo Liu
+- name: "Mingshuo Liu"
   photo: rock.jpg
-  info: Phd Student, Started Aug. 2023
+  info: |
+  Phd Student, Started Aug. 2023
   Graduate Student, Started Aug. 2019
   #email: 
   website: https://jaylenttt.github.io/
 
-- name: Shiyi Luo
+- name: "Shiyi Luo"
   photo: rock.jpg
-  info: Phd Student, Started Aug. 2024
+  info: |
+  Phd Student, Started Aug. 2024
   Graduate Student, Started Aug. 2020
   #email: 
   website: https://jaylenttt.github.io/
 
-- name: Yunduan Lou
+- name: "Yunduan Lou"
   photo: rock.jpg
   info: Graduate Student, Started Dec. 2020
   #email: 
   website: https://jaylenttt.github.io/
 
-- name: Jialin Tang
+- name: "Jialin Tang"
   photo: rock.jpg
   info: Graduate Student, Started Aug. 2022
   #email: tjl_0516@csu.fullerton.edu
   website: https://jaylenttt.github.io/
 
-- name: Jiaqi Zhang
+- name: "Jiaqi Zhang"
   photo: rock.jpg
   info: Graduate Student, Started Jan. 2024
   #email: 
