@@ -18,7 +18,7 @@ permalink: /about/
   <h3>{{ member.name }}</h3>
   <h4><i>{{ member.info }}</i></h4>
   {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> {% endif %}
-  {% if member.cv %} <a href="{{ site.url }}{{ site.baseurl }}/{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> {% endif %}
+  {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> {% endif %}
   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}
   {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a> {% endif %}
@@ -61,7 +61,7 @@ permalink: /about/
 {% if site.data.people %}
 
 <div class="jumbotron">
-  <h3>Students and Mentoring</h3>
+  <h3>Active Students</h3>
   <ul>
     {% for student in site.data.people %}
       <li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
