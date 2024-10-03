@@ -27,15 +27,14 @@
   <h4>News</h4>
 
   {% for article in site.data.news limit:3 %}
-    {% if article.link %}
-      <a href="{{ article.link }}">
-        <p><b>{{ article.date }}</b></p>
-        <p>{{ article.headline }}</p>
-      </a>
-    {% else %}
-      <p><b>{{ article.date }}</b></p>
-      <p>{{ article.headline }}</p>
-    {% endif %}
+    <p><b>{{ article.date }}</b></p>
+    <p>
+      {% if article.link %}
+        <a href="{{ article.link }}">{{ article.headline }}</a>
+      {% else %}
+        {{ article.headline }}
+      {% endif %}
+    </p>
   {% endfor %}
 </div>
 
