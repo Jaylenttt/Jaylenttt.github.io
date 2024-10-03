@@ -33,9 +33,9 @@ iframe {
 ## Publications
 
 <div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>
-Activities for Federal Agencies<br>
+<div class="col-md-12 col-sm-12" style="line-height: 1.6;">
+<h1>
+Activities for Federal Agencies<br><br><h1><h4>
 
 National Science Foundation: Panelist (2019)<br>
 
