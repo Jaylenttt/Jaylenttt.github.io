@@ -95,6 +95,7 @@ Azadeh Famili, Currently Ph.D. Candidate at Clemson University, SC, USA.
 
 Jonathan Schinowsky, Engineer at Department of Defense (DOD) Research Lab, USA. 
 
+<br><br>
 ## Visiting Lab Member
 
 Yuga Ono, Ritsumeikan University

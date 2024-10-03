@@ -41,7 +41,7 @@
   #linkedin: https://www.linkedin.com/in/yifeng-yu-60b53a32/
   researchgate: https://www.researchgate.net/profile/Yifeng-Yu
   scholar: https://www.researchgate.net/profile/Yifeng-Yu
-  cv:  <a href="https://ecs.fullerton.edu/~ybai/">View CV</a>
+  cv:  href="https://ecs.fullerton.edu/~ybai/""
   # Change the items in "education" you have (up to 6)
   education:
     [ "Co-Director Intelligent Computing Joint Research Laboratory",
