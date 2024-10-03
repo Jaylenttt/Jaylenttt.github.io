@@ -81,41 +81,19 @@ permalink: /team/
 
 ## Lab Alumni
 
-<div class="jumbotron">
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni %}
+Xiaotian Ma, IT Specialist at Pac-dent, Brea, CA, USA.
 
-{% assign even_odd = number_printed | modulo: 2 %}
+Simon Yang, Manager at Ecotron, Whittier, CA, USA.
 
-{% if even_odd == 0 %}
+Payal Borulkar, Senior Engineer at Google, Mountain View, CA, USA.
 
-<div class="row">
-{% endif %}
+Ashkan Samiee, Senior Engineer at Telsa Inc., CA, USA.
 
-<div class="col-sm-2">
-<img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
-</div>
-<div class="col-sm-4 col-xs-12">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-  </ul>
-</div>
+John Gawlik, Scientist at Department of Defense (DOD) Research Lab, USA.
 
-{% assign number_printed = number_printed | plus: 1 %}
+Azadeh Famili, Currently Ph.D. Candidate at Clemson University, SC, USA.
 
-{% if even_odd == 1 %}
-
-</div>
-{% endif %}
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-
-</div>
-{% endif %}
-</div>
+Jonathan Schinowsky, Engineer at Department of Defense (DOD) Research Lab, USA. 
 
 ## Visiting Lab Member
 
