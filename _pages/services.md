@@ -1,8 +1,8 @@
 ---
-title: "Publications"
+title: "services"
 layout: gridlay
 sitemap: false
-permalink: /publications/
+permalink: /services/
 ---
 
 <style>
@@ -30,7 +30,7 @@ iframe {
 }
 </style>
 
-## Publications
+## Services
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12" style="line-height: 1.6;">
