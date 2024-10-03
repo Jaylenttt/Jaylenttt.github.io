@@ -45,6 +45,8 @@ Research in the laboratory focuses on 6 core topics: <br><br>
 
 ### For Prospective Students/Scholars: 
 
+<br>
+
 <h4>
 
 The Intelligent computing research lab is looking for self-motivated students and scholars to join the Lab for pursuing graduate degrees (M.S. in Electrical Engineering, Computer Engineering, Mathematics and/or Computer Science and Ph.D. in Computational Science) or conduct collaborative research. Also, there are multiple visiting scholar positions. If you are interested in working with me, please send your resume to ybai2 at uci dot edu.<br><br></h4>
