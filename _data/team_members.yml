@@ -1,9 +1,9 @@
-- name: Example student name
+- name: Jialin Tang
   photo: rock.jpg
-  info: Postdoc, started Oct 2040
-  email: exampleemail@gmail.com
-  website: https://website.com
+  info: Graduate Student, Started Aug 2022
+  email: tjl_0516@csu.fullerton.edu
+  website: https://jaylenttt.github.io/
 
 - name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="www">openings</a> for more info
+  photo: logo.jpg
+  info: Welcome you all!
